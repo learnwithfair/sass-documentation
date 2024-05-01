@@ -14,9 +14,9 @@ Thanks for visiting my GitHub account!
 
 ## Project Overview
 
-|                              |
+|                              |                                    |
 | :--------------------------: | :--------------------------------: |
-|         CSS vs SASS          |            CSS vs SASS             |
+|         CSS vs SASS          |  
 | ![imgage](images/images.png) | ![roadmap](images/sass-vs-css.jpg) |
 | !![roadmap](images/code.jpg) |
 
