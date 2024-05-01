@@ -16,8 +16,10 @@ Thanks for visiting my GitHub account!
 
 |                              |                                    |
 | :--------------------------: | :--------------------------------: |
-|         CSS vs SASS          |  
+|         CSS vs SASS          |              Example               |
 | ![imgage](images/images.png) | ![roadmap](images/sass-vs-css.jpg) |
+|                              |
+| :--------------------------: |
 | !![roadmap](images/code.jpg) |
 
 ## Learning outcomes
